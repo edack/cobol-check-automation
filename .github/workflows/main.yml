@@ -1,4 +1,4 @@
-name: COBOL check automation
+name: COBOL Check Automation
 
 on:
   push:
